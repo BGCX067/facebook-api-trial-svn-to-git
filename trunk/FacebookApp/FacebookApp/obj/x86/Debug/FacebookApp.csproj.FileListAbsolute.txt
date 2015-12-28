@@ -1,0 +1,5 @@
+C:\Users\Emre Ceylan\Documents\Visual Studio 2010\Projects\FacebookApp\FacebookApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Emre Ceylan\Documents\Visual Studio 2010\Projects\FacebookApp\FacebookApp\obj\x86\Debug\FacebookApp.Form1.resources
+C:\Users\Emre Ceylan\Documents\Visual Studio 2010\Projects\FacebookApp\FacebookApp\obj\x86\Debug\FacebookApp.Properties.Resources.resources
+C:\Users\Emre Ceylan\Documents\Visual Studio 2010\Projects\FacebookApp\FacebookApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Emre Ceylan\Documents\Visual Studio 2010\Projects\FacebookApp\FacebookApp\obj\x86\Debug\GenerateResource.write.1.tlog

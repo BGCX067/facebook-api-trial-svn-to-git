@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookApp", "FacebookApp\FacebookApp.csproj", "{B2862711-DE62-4546-9B92-F6C1F031D917}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookFriend", "FacebookFriend\FacebookFriend.csproj", "{DE7B885C-EAAA-43DC-B7D6-E379CC3E0DA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2862711-DE62-4546-9B92-F6C1F031D917}.Debug|x86.ActiveCfg = Debug|x86
+		{B2862711-DE62-4546-9B92-F6C1F031D917}.Debug|x86.Build.0 = Debug|x86
+		{B2862711-DE62-4546-9B92-F6C1F031D917}.Release|x86.ActiveCfg = Release|x86
+		{B2862711-DE62-4546-9B92-F6C1F031D917}.Release|x86.Build.0 = Release|x86
+		{DE7B885C-EAAA-43DC-B7D6-E379CC3E0DA8}.Debug|x86.ActiveCfg = Debug|x86
+		{DE7B885C-EAAA-43DC-B7D6-E379CC3E0DA8}.Debug|x86.Build.0 = Debug|x86
+		{DE7B885C-EAAA-43DC-B7D6-E379CC3E0DA8}.Release|x86.ActiveCfg = Release|x86
+		{DE7B885C-EAAA-43DC-B7D6-E379CC3E0DA8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
